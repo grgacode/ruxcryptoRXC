@@ -857,6 +857,7 @@ public:
             0
         };
 
+	   
         // Regtest RuxCrypto addresses start with 'y'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,60);
         // Regtest RuxCrypto script addresses start with '8' or '9'
